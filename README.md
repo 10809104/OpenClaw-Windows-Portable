@@ -4,7 +4,7 @@
 
 This is a specialized **Portable Deployment Solution** for **OpenClaw (Open Source AI Automation Agent)** on Windows. Using customized environment-routing scripts, it achieves complete isolation of Node.js and OpenClaw, enabling a plug-and-play experience on any machine without modifying system-wide settings.
 
-> [中文說明文件 (Chinese Version)](https://www.google.com/search?q=./README_ZH.md)
+> [中文說明文件 (Chinese Version)](https://github.com/10809104/OpenClaw-Windows-Portable/README_ZH.md)
 -----
 
 ## 🌟 Why Use This?
