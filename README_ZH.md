@@ -4,7 +4,7 @@
 
 這是一個專為 Windows 使用者設計的 **OpenClaw (Open Source AI Automation Agent)** 行動版部署方案。透過自定義的環境導向腳本，實現 Node.js 與 OpenClaw 的完全隔離與可攜性，無需管理員權限即可在任何電腦上隨插即用。
 
-> [英文說明文件 (Chinese Version)](https://github.com/10809104/OpenClaw-Windows-Portable/README.md)
+> [英文說明文件 (Chinese Version)](https://github.com/10809104/OpenClaw-Windows-Portable/blob/main/README.md)
 
 ---
 
